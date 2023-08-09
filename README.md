@@ -1,6 +1,6 @@
 # assignment3
-Deliverables:
-
+Description:
+We should DO this file and solve the problem:
 - mathFunctions.js with the implementation of basic math functions.
 - mathFunctions.test.js with test cases for the math functions.
 - stringFunctions.js with the implementation of string manipulation functions.
